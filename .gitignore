@@ -1,0 +1,23 @@
+# JavaScript
+node_modules/
+*.log
+dist/
+.cache/
+
+# Always ignored
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+client_secret*.json
+service_account*.json
+token.json
+token*.json
+*.sqlite
+*.db
+data/
+outputs/
+*.log
+*.cache
